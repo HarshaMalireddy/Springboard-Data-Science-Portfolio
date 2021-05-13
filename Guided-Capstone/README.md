@@ -1,1 +1,1 @@
-# Data Science Guided Capstone
+# Ski Resort Guided Capstone
