@@ -8,4 +8,6 @@ Hi! Here is a list of my Springboard Data Science bootcamp capstone and mini pro
 5. Python Data Science Mini Project: [London Boroughs](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects/London-Boroughs)
 6. Data Wrangling API Mini Project: [API](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects/API)
 7. SQL Mini Project: [SQL](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects/SQL)
-8. Exploratory Data Analysis (EDA) Mini Project: [Frequentist Inference](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects/Frequentist-Inference)
+8. Exploratory Data Analysis (EDA) Mini Project: [Frequentist Inference Parts A & B](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects/Frequentist-Inference)
+9. Exploratory Data Analysis (EDA) Mini Project: [Apps](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects/Apps)
+10. Exploratory Data Analysis (EDA) Mini Project: [Linear Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects/Linear%20Regression)
