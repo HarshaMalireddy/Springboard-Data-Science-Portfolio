@@ -1,1 +1,1 @@
-# Exploratory Data Analysis (EDA): Apps Mini-Project
+# Exploratory Data Analysis (EDA): Apps
