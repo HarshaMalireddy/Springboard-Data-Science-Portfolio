@@ -1,1 +1,1 @@
-# Exploratory Data Analysis (EDA): Linear Regression
+# Exploratory Data Analysis (EDA): Statistical Modeling in Python
