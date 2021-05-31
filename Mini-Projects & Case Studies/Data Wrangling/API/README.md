@@ -1,2 +1,2 @@
-# Data Wrangling - Data Collection
+# Data Wrangling: Data Collection
 
