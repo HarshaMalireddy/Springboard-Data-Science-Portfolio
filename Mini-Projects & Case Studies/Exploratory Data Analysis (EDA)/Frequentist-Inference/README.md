@@ -1,1 +1,1 @@
-# Exploratory Data Analysis (EDA): Frequentist Inference
+# Exploratory Data Analysis (EDA): Statistical Inference in Python
