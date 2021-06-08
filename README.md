@@ -9,17 +9,18 @@ Hi! Here is a list of my Springboard Data Science bootcamp capstone and mini pro
 ## Other Projects
 ## Mini-Projects & Case Studies
 ### Python For Data Science
-1. Python For Data Science: [London Boroughs](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Python%20For%20Data%20Science/London-Boroughs)
+1. Python For Data Science: [London Boroughs](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Python%20For%20Data%20Science/London-Boroughs/London-Boroughs.ipynb)
 ### Data Wrangling
-1. Data Collection: [API](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Data%20Wrangling/API)
+1. Data Collection: [API](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Data%20Wrangling/API/api_data_wrangling_mini_project.ipynb)
 ### SQL
-1. [SQL](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/SQL)
+1. [SQL](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/SQL/SQLTasks%20Tier%201.sql)
 ### Exploratory Data Analysis (EDA)
-1. Statistical Inference in Python: [Frequentist Inference Parts A & B](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Frequentist-Inference)
-2. Hypothesis Testing in Python: [Apps](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Apps)
-3. Statistical Modeling in Python: [Linear Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Linear%20Regression)
+1. Statistical Inference in Python: [Frequentist Inference Parts A](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Frequentist-Inference/Frequentist%20Inference%20Case%20Study%20-%20Part%20A.ipynb)
+[Frequentist Inference Parts B](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Frequentist-Inference/Frequentist%20Inference%20Case%20Study%20-%20Part%20B%20(2).ipynb)
+2. Hypothesis Testing in Python: [Apps](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Apps/Springboard%20Apps%20project.ipynb)
+3. Statistical Modeling in Python: [Linear Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Linear%20Regression/Springboard%20Regression%20Case%20Study%20-%20the%20Red%20Wine%20Dataset.ipynb)
 ### Supervised Learning
-1. [Logistic Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Logistic_Regression)
-2. [Decision Tree](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Decision_Tree)
+1. [Logistic Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Logistic_Regression/Logistic%20Regression%20Advanced%20Case%20Study.ipynb)
+2. [Decision Tree](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Decision_Tree/Decision%20Tree%20Specialty%20Coffee%20Case%20Study.ipynb)
 
 
