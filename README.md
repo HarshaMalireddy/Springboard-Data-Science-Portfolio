@@ -20,5 +20,6 @@ Hi! Here is a list of my Springboard Data Science bootcamp capstone and mini pro
 3. Statistical Modeling in Python: [Linear Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Linear%20Regression)
 ### Supervised Learning
 1. Logistic Regression: [Logistic Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Logistic_Regression)
+2. Decision Tree: [Decision Tree](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Decision_Tree)
 
 
