@@ -13,13 +13,13 @@ Hi! Here is a list of my Springboard Data Science bootcamp capstone and mini pro
 ### Data Wrangling
 1. Data Collection: [API](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Data%20Wrangling/API)
 ### SQL
-1. SQL: [SQL](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/SQL)
+1. [SQL](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/SQL)
 ### Exploratory Data Analysis (EDA)
 1. Statistical Inference in Python: [Frequentist Inference Parts A & B](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Frequentist-Inference)
 2. Hypothesis Testing in Python: [Apps](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Apps)
 3. Statistical Modeling in Python: [Linear Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Linear%20Regression)
 ### Supervised Learning
-1. Logistic Regression: [Logistic Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Logistic_Regression)
-2. Decision Tree: [Decision Tree](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Decision_Tree)
+1. [Logistic Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Logistic_Regression)
+2. [Decision Tree](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Decision_Tree)
 
 
