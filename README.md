@@ -22,5 +22,5 @@ Hi! Here is a list of my Springboard Data Science bootcamp capstone and mini pro
 ### Supervised Learning
 1. [Logistic Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Logistic_Regression/Logistic%20Regression%20Advanced%20Case%20Study.ipynb)
 2. [Decision Tree](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Decision_Tree/Decision%20Tree%20Specialty%20Coffee%20Case%20Study.ipynb)
-
+3. [Random Forest](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Random_Forest/Random%20Forest%20Covid19%20Case%20Study.ipynb)
 
