@@ -18,9 +18,9 @@ Hi! Here is a list of my Springboard Data Science bootcamp capstone and mini pro
 1. Statistical Inference in Python: [Frequentist Inference Parts A](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Frequentist-Inference/Frequentist%20Inference%20Case%20Study%20-%20Part%20A.ipynb)
 [Frequentist Inference Parts B](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Frequentist-Inference/Frequentist%20Inference%20Case%20Study%20-%20Part%20B%20(2).ipynb)
 2. Hypothesis Testing in Python: [Apps](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Apps/Springboard%20Apps%20project.ipynb)
-3. Statistical Modeling in Python: [Linear Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Linear%20Regression/Springboard%20Regression%20Case%20Study%20-%20the%20Red%20Wine%20Dataset.ipynb)
 ### Supervised Learning
-1. [Logistic Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Logistic_Regression/Logistic%20Regression%20Advanced%20Case%20Study.ipynb)
-2. [Decision Tree](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Decision_Tree/Decision%20Tree%20Specialty%20Coffee%20Case%20Study.ipynb)
-3. [Random Forest](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Random_Forest/Random%20Forest%20Covid19%20Case%20Study.ipynb)
+1. [Linear Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Linear%20Regression/Springboard%20Regression%20Case%20Study%20-%20the%20Red%20Wine%20Dataset.ipynb)
+2. [Logistic Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Logistic_Regression/Logistic%20Regression%20Advanced%20Case%20Study.ipynb)
+3. [Decision Tree](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Decision_Tree/Decision%20Tree%20Specialty%20Coffee%20Case%20Study.ipynb)
+4. [Random Forest](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Random_Forest/Random%20Forest%20Covid19%20Case%20Study.ipynb)
 
