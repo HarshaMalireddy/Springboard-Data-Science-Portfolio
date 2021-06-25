@@ -26,3 +26,4 @@ Hi! Here is a list of my Springboard Data Science bootcamp capstone and mini pro
 5. [Gradient Boosting](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Gradient_Boosting/Gradient%20Boosting%20Case%20Study.ipynb)
 ### Unsupervised Learning
 1. [Euclidean & Manhattan Distances](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Unsupervised%20Learning/Euclidean_%26_Manhattan_Distances/Euclidean_and_Manhattan_Distances_Case_Study.ipynb)
+2. [Cosine Similarity](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Unsupervised%20Learning/Cosine_Similarity/Cosine_Similarity_Case_Study.ipynb)
