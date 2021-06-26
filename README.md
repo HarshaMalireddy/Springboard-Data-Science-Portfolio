@@ -27,3 +27,4 @@ Hi! Here is a list of my Springboard Data Science bootcamp capstone and mini pro
 ### Unsupervised Learning
 1. [Euclidean & Manhattan Distances](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Unsupervised%20Learning/Euclidean_%26_Manhattan_Distances/Euclidean_and_Manhattan_Distances_Case_Study.ipynb)
 2. [Cosine Similarity](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Unsupervised%20Learning/Cosine_Similarity/Cosine_Similarity_Case_Study.ipynb)
+3. [K-Means Clustering & PCA](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Unsupervised%20Learning/K-Means%20Clustering%20%26%20PCA/K-Means%20Clustering%20%26%20PCA.ipynb)
