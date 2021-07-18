@@ -1,1 +1,1 @@
-# Unsupervised Learning: Cosine Similarity
+# ML Techniques: Cosine Similarity
