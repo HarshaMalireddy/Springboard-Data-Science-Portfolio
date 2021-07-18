@@ -5,7 +5,7 @@ Hi! Here is a list of my Springboard Data Science bootcamp capstone and mini pro
 ## Capstone Projects
 1. [Spotify Genre Classifier](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Capstone%20Projects/Spotify-Genre-Classifier-Capstone)
 2.  
-4. [Ski Resort Guided Capstone](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Capstone%20Projects/Ski-Resort-Guided-Capstone)
+3. [Ski Resort Guided Capstone](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Capstone%20Projects/Ski-Resort-Guided-Capstone)
 ## Other Projects
 ## Mini-Projects & Case Studies
 ### Python For Data Science
