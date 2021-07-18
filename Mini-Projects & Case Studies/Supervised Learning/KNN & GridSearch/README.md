@@ -1,1 +1,1 @@
-# Supervised Learning: Gradient Boosting
+# Supervised Learning: KNN & GridSearch
