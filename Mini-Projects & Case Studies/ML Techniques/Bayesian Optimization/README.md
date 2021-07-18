@@ -1,1 +1,1 @@
-# Supervised Learning: Gradient Boosting
+# ML Techniques: Bayesian Optimization
