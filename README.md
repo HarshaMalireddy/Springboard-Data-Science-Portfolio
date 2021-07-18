@@ -23,11 +23,11 @@ Hi! Here is a list of my Springboard Data Science bootcamp capstone and mini pro
 2. [Logistic Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Logistic_Regression/Logistic%20Regression%20Advanced%20Case%20Study.ipynb)
 3. [Decision Tree](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Decision_Tree/Decision%20Tree%20Specialty%20Coffee%20Case%20Study.ipynb)
 4. [Random Forest](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Random_Forest/Random%20Forest%20Covid19%20Case%20Study.ipynb)
-5. [Gradient Boosting](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Gradient_Boosting/Gradient%20Boosting%20Case%20Study.ipynb)
+5. [Gradient Boosting](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/Gradient_Boosting/Gradient%20Boosting%20Case%20Study.ipynb) 
 6. [KNN & GridSearch](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Supervised%20Learning/KNN%20%26%20GridSearch/KNN%20%26%20GridSearch.ipynb)
 ### Unsupervised Learning
 1. [K-Means Clustering & PCA](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Unsupervised%20Learning/K-Means%20Clustering%20%26%20PCA/K-Means%20Clustering%20%26%20PCA.ipynb)
 ### ML Techniques
 1. [Euclidean & Manhattan Distances](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/ML%20Techniques/Euclidean_%26_Manhattan_Distances/Euclidean_and_Manhattan_Distances_Case_Study.ipynb)
 2. [Cosine Similarity](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/ML%20Techniques/Cosine_Similarity/Cosine_Similarity_Case_Study.ipynb)
-3. [Bayesian Optimization](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/ML%20Techniques/Bayesian%20Optimization/Bayesian_optimization_case_study.ipynb) 
+3. [Bayesian Optimization](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/ML%20Techniques/Bayesian%20Optimization/Bayesian%20Optimization.ipynb) 
