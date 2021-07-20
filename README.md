@@ -10,10 +10,10 @@ Hi! Here is a list of my Springboard Data Science bootcamp capstone and mini pro
 ## Mini-Projects & Case Studies
 ### Python For Data Science
 1. Python For Data Science: [London Boroughs](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Python%20For%20Data%20Science/London-Boroughs/London-Boroughs.ipynb)
-### Data Wrangling
-1. Data Collection: [API](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Data%20Wrangling/API/api_data_wrangling_mini_project.ipynb)
 ### SQL
 1. [SQL](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/SQL/SQLTasks%20Tier%201.sql)
+### Data Wrangling
+1. Data Collection: [API](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Data%20Wrangling/API/api_data_wrangling_mini_project.ipynb)
 ### Exploratory Data Analysis (EDA)
 1. Statistical Inference in Python: [Frequentist Inference Parts A](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Frequentist-Inference/Frequentist%20Inference%20Case%20Study%20-%20Part%20A.ipynb)
 [Frequentist Inference Parts B](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Frequentist-Inference/Frequentist%20Inference%20Case%20Study%20-%20Part%20B%20(2).ipynb)
