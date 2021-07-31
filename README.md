@@ -2,12 +2,12 @@
 
 Hi! Here is a list of my Springboard Data Science bootcamp capstone and mini projects as well as other Data Science projects. 
 
-## Capstone Projects
+## Projects
 1. [Spotify Genre Classifier](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Capstone%20Projects/Spotify-Genre-Classifier-Capstone)
 2.  
 3. [Ski Resort Guided Capstone](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Capstone%20Projects/Ski-Resort-Guided-Capstone)
-## Other Projects
-## Mini-Projects & Case Studies
+## Mini-Projects
+## Case Studies
 ### Python For Data Science
 1. Python For Data Science: [London Boroughs](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Python%20For%20Data%20Science/London-Boroughs/London-Boroughs.ipynb)
 ### SQL
@@ -31,3 +31,5 @@ Hi! Here is a list of my Springboard Data Science bootcamp capstone and mini pro
 1. [Euclidean & Manhattan Distances](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/ML%20Techniques/Euclidean_%26_Manhattan_Distances/Euclidean_and_Manhattan_Distances_Case_Study.ipynb)
 2. [Cosine Similarity](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/ML%20Techniques/Cosine_Similarity/Cosine_Similarity_Case_Study.ipynb)
 3. [Bayesian Optimization](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/ML%20Techniques/Bayesian%20Optimization/Bayesian%20Optimization.ipynb) 
+### Time Series
+1. [Time Series & ARMIA Model](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Mini-Projects%20%26%20Case%20Studies/Time%20Series/Cowboy%20Cigarettes%20Case%20Study.ipynb)
