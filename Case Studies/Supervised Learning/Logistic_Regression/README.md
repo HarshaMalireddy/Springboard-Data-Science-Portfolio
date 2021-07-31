@@ -1,1 +1,1 @@
-# Supervised Learning: Logistic Regression
+# [Supervised Learning: Logistic Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Supervised%20Learning/Logistic_Regression/Logistic%20Regression%20Advanced%20Case%20Study.ipynb) 
