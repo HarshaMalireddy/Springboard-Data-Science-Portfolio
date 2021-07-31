@@ -15,7 +15,7 @@ Hi! Here is a list of my Springboard bootcamp and personal Data Science projects
 ### Data Wrangling
 1. [Data Collection](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Data%20Wrangling/API/api_data_wrangling_mini_project.ipynb)
 ### Exploratory Data Analysis (EDA)
-1. Statistical Inference: [Part A](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Statistical%20Inference/Frequentist%20Inference%20Case%20Study%20-%20Part%20A.ipynb)[Part B](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Statistical%20Inference/Frequentist%20Inference%20Case%20Study%20-%20Part%20B%20(2).ipynb)
+1. Statistical Inference: [Part A](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Statistical%20Inference/Frequentist%20Inference%20Case%20Study%20-%20Part%20A.ipynb)[ Part B](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Statistical%20Inference/Frequentist%20Inference%20Case%20Study%20-%20Part%20B%20(2).ipynb)
 2. [Hypothesis Testing](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Hypothesis%20Testing/Springboard%20Apps%20project.ipynb)
 ### Supervised Learning
 1. [Linear Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Supervised%20Learning/Linear%20Regression/Springboard%20Regression%20Case%20Study%20-%20the%20Red%20Wine%20Dataset.ipynb)
