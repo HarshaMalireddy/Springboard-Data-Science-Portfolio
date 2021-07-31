@@ -1,2 +1,0 @@
-Model,Hyperperameters,Accuracy,Precision,Recall,F1-Score,Log Loss,ROC-AUC
-Random Forest Classifier,"n_estimators = 500, criterion = gini",0.4,0.43,0.33,0.33,2.06,0.89
