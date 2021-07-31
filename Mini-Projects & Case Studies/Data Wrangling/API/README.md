@@ -1,2 +1,0 @@
-# Data Wrangling: Data Collection
-
