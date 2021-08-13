@@ -1,12 +1,11 @@
 # Data Science Portfolio
 
-Hi! Here is a list of my Springboard bootcamp and personal Data Science projects, mini projects, and case studies.
-
+Hi! Here is a list of my Springboard bootcamp and personal Data Science projects and case studies.
+ 
 ## Projects
 1. [Facebook Friend Recommender](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Projects/Facebook-Friend-Recommeder-Capstone/Datasets/facebook)
 2. [Spotify Genre Classifier](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Projects/Spotify-Genre-Classifier-Capstone) 
 3. [Ski Resort Guided Capstone](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Projects/Ski-Resort-Guided-Capstone)
-## Mini-Projects
 ## Case Studies
 ### Python For Data Science
 1. [London Boroughs](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Python%20For%20Data%20Science/London-Boroughs/London-Boroughs.ipynb)
