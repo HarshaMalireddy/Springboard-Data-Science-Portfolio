@@ -8,13 +8,13 @@ Hi! Here is a list of my Springboard bootcamp and personal Data Science projects
 3. [Ski Resort Facilities Analysis](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Projects/Ski-Resort-Guided-Capstone)
 ## Case Studies
 ### Python For Data Science
-1. [Analysis on London Boroughs](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Python%20For%20Data%20Science/London-Boroughs/London-Boroughs.ipynb)
+1. [London Boroughs Analysis](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Python%20For%20Data%20Science/London-Boroughs/London-Boroughs.ipynb)
 ### SQL
 1. [SQL](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/SQL/SQLTasks%20Tier%201.sql)
 ### Data Collection & Data Wrangling
 1. [Data Collection & Wrangling](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Data%20Wrangling/API/api_data_wrangling_mini_project.ipynb)
 ### Exploratory Data Analysis (EDA)
-1. Statistical Inference: [Part A](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Statistical%20Inference/Frequentist%20Inference%20Case%20Study%20-%20Part%20A.ipynb)[ Part B](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Statistical%20Inference/Frequentist%20Inference%20Case%20Study%20-%20Part%20B%20(2).ipynb)
+1. Frequentist Inference: [Part A](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Statistical%20Inference/Frequentist%20Inference%20Case%20Study%20-%20Part%20A.ipynb)[ Part B](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Statistical%20Inference/Frequentist%20Inference%20Case%20Study%20-%20Part%20B%20(2).ipynb)
 2. [Hypothesis Testing](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Hypothesis%20Testing/Springboard%20Apps%20project.ipynb)
 ### Supervised Learning
 1. [Predicting Acidity Levels In Wine with Linear Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Supervised%20Learning/Linear%20Regression/Springboard%20Regression%20Case%20Study%20-%20the%20Red%20Wine%20Dataset.ipynb)
