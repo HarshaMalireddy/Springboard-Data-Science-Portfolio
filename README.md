@@ -24,7 +24,7 @@ Hi! Here is a list of my Springboard bootcamp and personal Data Science projects
 5. [Predicting Titanic Passengers Survival with Gradient Boosting Classifier](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Supervised%20Learning/Gradient_Boosting/Gradient%20Boosting%20Case%20Study.ipynb) 
 6. [Predicting Diabetes In Patients with K-Nearest Neighbors (KNN)](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Supervised%20Learning/KNN%20%26%20GridSearch/KNN%20%26%20GridSearch.ipynb)
 ### Unsupervised Learning
-1. [Examining Customer Preferences in Marketing Newsletter Campaigns with K-Means Clustering & Principal Component Analysis (PCA)](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Unsupervised%20Learning/K-Means%20Clustering%20%26%20PCA/K-Means%20Clustering%20%26%20PCA.ipynb)
+1. [Examining Customer Preferences with K-Means Clustering](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Unsupervised%20Learning/K-Means%20Clustering%20%26%20PCA/K-Means%20Clustering%20%26%20PCA.ipynb)
 ### ML Techniques
 1. [Euclidean & Manhattan Distances](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/ML%20Techniques/Euclidean_%26_Manhattan_Distances/Euclidean_and_Manhattan_Distances_Case_Study.ipynb)
 2. [Cosine Similarity](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/ML%20Techniques/Cosine_Similarity/Cosine_Similarity_Case_Study.ipynbs)
