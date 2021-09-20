@@ -6,8 +6,8 @@
 1. [Data Wrangling](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Projects/Facebook-Friend-Recommeder-Capstone/Data%20Wrangling.ipynb)
 2. [EDA](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Projects/Facebook-Friend-Recommeder-Capstone/EDA.ipynb)
 3. [Pre-Processing & Training](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Projects/Facebook-Friend-Recommeder-Capstone/Pre-Processing.ipynb)
-4. [Modeling](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Projects/Facebook-Friend-Recommeder-Capstone/Modeling.ipynb)
-5. [Modeling 2](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Projects/Facebook-Friend-Recommeder-Capstone/Modeling_2.ipynb)
+4. [Node2Vec Algo. Modeling](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Projects/Facebook-Friend-Recommeder-Capstone/Node2Vec%20Algo.%20Modeling.ipynb)
+5. [NetworkX Link Prediction Algo. Modeling](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Projects/Facebook-Friend-Recommeder-Capstone/NetworkX%20Link%20Prediction%20Algo.%20Modeling.ipynb)
 ## Reports
 1. [Final Report]()
-2. [Final Report Slides]()
+2. [Final Report Slides]() 
