@@ -1,1 +1,0 @@
-# [Supervised Learning: Random Forest](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Supervised%20Learning/Random_Forest/Random%20Forest%20Covid19%20Case%20Study.ipynb) 

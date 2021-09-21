@@ -1,1 +1,0 @@
-# [Time Series & ARIMA Model](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Time%20Series/Time%20Series%20%26%20ARIMA%20Model.ipynb) 

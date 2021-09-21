@@ -1,1 +1,0 @@
-# [ML Techniques: Bayesian Optimization](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/ML%20Techniques/Bayesian%20Optimization/Bayesian%20Optimization.ipynb)

@@ -1,1 +1,0 @@
-# [Supervised Learning: Linear Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Supervised%20Learning/Linear%20Regression/Springboard%20Regression%20Case%20Study%20-%20the%20Red%20Wine%20Dataset.ipynb)

@@ -1,1 +1,0 @@
-# [Supervised Learning: Decision Tree](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Supervised%20Learning/Decision_Tree/Decision%20Tree%20Specialty%20Coffee%20Case%20Study.ipynb)
