@@ -1,1 +1,1 @@
-# [ML Techniques: Cosine Similarity](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/ML%20Techniques/Cosine_Similarity/Cosine_Similarity_Case_Study.ipynb)
+# [Cosine Similarity](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/ML%20Techniques/Cosine_Similarity/Cosine_Similarity_Case_Study.ipynb)

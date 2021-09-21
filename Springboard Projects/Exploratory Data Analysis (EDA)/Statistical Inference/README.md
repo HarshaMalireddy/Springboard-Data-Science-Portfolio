@@ -1,3 +1,3 @@
-# Exploratory Data Analysis (EDA): Statistical Inference
-1. [Frequentist Inference Parts A](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Statistical%20Inference/Frequentist%20Inference%20Case%20Study%20-%20Part%20A.ipynb)
-2. [Frequentist Inference Parts B](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Exploratory%20Data%20Analysis%20(EDA)/Statistical%20Inference/Frequentist%20Inference%20Case%20Study%20-%20Part%20B%20(2).ipynb)
+# Statistical Inference
+1. [Frequentist Inference Part A](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Exploratory%20Data%20Analysis%20(EDA)/Statistical%20Inference/Frequentist%20Inference%20Part%20A.ipynb)
+2. [Frequentist Inference Part B](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Exploratory%20Data%20Analysis%20(EDA)/Statistical%20Inference/Frequentist%20Inference%20-%20Part%20B.ipynb)

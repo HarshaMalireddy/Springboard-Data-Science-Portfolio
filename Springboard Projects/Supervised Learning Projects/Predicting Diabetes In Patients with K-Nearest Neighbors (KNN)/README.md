@@ -1,1 +1,1 @@
-# [Supervised Learning: KNN & GridSearch](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Supervised%20Learning/KNN%20%26%20GridSearch/KNN%20%26%20GridSearch.ipynb)
+# [Predicting Diabetes In Patients with K-Nearest Neighbors (KNN)](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Supervised%20Learning%20Projects/Predicting%20Diabetes%20In%20Patients%20with%20K-Nearest%20Neighbors%20(KNN)/Predicting%20Diabetes%20In%20Patients%20with%20K-Nearest%20Neighbors%20(KNN).ipynb)

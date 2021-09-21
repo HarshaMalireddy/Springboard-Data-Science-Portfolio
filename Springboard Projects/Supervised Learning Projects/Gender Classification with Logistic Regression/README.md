@@ -1,1 +1,1 @@
-# [Supervised Learning: Logistic Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Supervised%20Learning/Logistic_Regression/Logistic%20Regression%20Advanced%20Case%20Study.ipynb) 
+# [Gender Classification with Logistic Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Supervised%20Learning%20Projects/Gender%20Classification%20with%20Logistic%20Regression/Gender%20Classification%20with%20Logistic%20Regression.ipynb) 

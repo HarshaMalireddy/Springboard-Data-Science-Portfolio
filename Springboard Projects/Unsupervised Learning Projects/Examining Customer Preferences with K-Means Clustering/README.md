@@ -1,1 +1,1 @@
-# [Unsupervised Learning: K-Means Clustering & PCA](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Unsupervised%20Learning/K-Means%20Clustering%20%26%20PCA/K-Means%20Clustering%20%26%20PCA.ipynb)
+# [Examining Customer Preferences with K-Means Clustering](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Unsupervised%20Learning%20Projects/Examining%20Customer%20Preferences%20with%20K-Means%20Clustering/Examining%20Customer%20Preferences%20with%20K-Means%20Clustering.ipynb)

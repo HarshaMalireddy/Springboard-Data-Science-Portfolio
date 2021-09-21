@@ -1,1 +1,1 @@
-# [Supervised Learning: Random Forest](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Supervised%20Learning/Random_Forest/Random%20Forest%20Covid19%20Case%20Study.ipynb) 
+# [Determining Covid Patient Condition with Random Forest Classifier](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Supervised%20Learning%20Projects/Determining%20Covid%20Patient%20Condition%20with%20Random%20Forest%20Classifier/Determining%20Covid%20Patient%20Condition%20with%20Random%20Forest%20Classifier.ipynb) 

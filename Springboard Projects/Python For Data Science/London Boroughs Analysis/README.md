@@ -1,1 +1,1 @@
-# [Python Data Science: London Boroughs](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Python%20For%20Data%20Science/London-Boroughs/London-Boroughs.ipynb)
+# [London Boroughs Analysis](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Python%20For%20Data%20Science/London%20Boroughs%20Analysis/London%20Boroughs%20Analysis.ipynb)

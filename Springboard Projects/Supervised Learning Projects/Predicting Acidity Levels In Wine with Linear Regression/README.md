@@ -1,1 +1,1 @@
-# [Supervised Learning: Linear Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Supervised%20Learning/Linear%20Regression/Springboard%20Regression%20Case%20Study%20-%20the%20Red%20Wine%20Dataset.ipynb)
+# [Predicting Acidity Levels In Wine with Linear Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Supervised%20Learning%20Projects/Predicting%20Acidity%20Levels%20In%20Wine%20with%20Linear%20Regression/Predicting%20Acidity%20Levels%20In%20Wine%20with%20Linear%20Regression.ipynb)
