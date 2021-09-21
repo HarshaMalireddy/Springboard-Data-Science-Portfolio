@@ -8,13 +8,13 @@ Hi! Here is a list of my Springboard bootcamp and personal Data Science projects
 3. [Ski Resort Facilities Analysis](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Projects/Ski-Resort-Guided-Capstone)
 ## Springboard Projects
 ### Python For Data Science
-1. [London Boroughs Analysis](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Case%20Studies/Python%20For%20Data%20Science/London-Boroughs/London-Boroughs.ipynb)
+1. [London Boroughs Analysis](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Python%20For%20Data%20Science/London%20Boroughs%20Analysis/London%20Boroughs%20Analysis.ipynb)
 ### SQL
-1. [SQL](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/SQL/SQLTasks%20Tier%201.sql)
+1. [SQL](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/SQL/SQL.sql)
 ### Data Collection & Data Wrangling
 1. [API Data Collection & Wrangling](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Data%20Collection%20%26%20Data%20Wrangling/API%20Data%20Collection%20%26%20Data%20Wrangling.ipynb)
 ### Exploratory Data Analysis (EDA)
-1. Frequentist Inference: [Part A](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Exploratory%20Data%20Analysis%20(EDA)/Statistical%20Inference/Frequentist%20Inference%20Part%20A.ipynb)[ Part B](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Exploratory%20Data%20Analysis%20(EDA)/Statistical%20Inference/Frequentist%20Inference%20-%20Part%20B.ipynb)
+1. Frequentist Inference: [Part A](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Exploratory%20Data%20Analysis%20(EDA)/Statistical%20Inference/Frequentist%20Inference%20Part%20A.ipynb)[ Part B](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Exploratory%20Data%20Analysis%20(EDA)/Statistical%20Inference/Frequentist%20Inference%20Part%20B.ipynb)
 2. [Hypothesis Testing](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Exploratory%20Data%20Analysis%20(EDA)/Hypothesis%20Testing/Apps%20Hypothesis%20Testing.ipynb)
 ### Supervised Learning
 1. [Predicting Acidity Levels In Wine with Linear Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Supervised%20Learning%20Projects/Predicting%20Acidity%20Levels%20In%20Wine%20with%20Linear%20Regression/Predicting%20Acidity%20Levels%20In%20Wine%20with%20Linear%20Regression.ipynb)
