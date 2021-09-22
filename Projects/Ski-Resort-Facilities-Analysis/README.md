@@ -1,4 +1,4 @@
-# Ski Resort Guided Capstone
+# Ski Resort Facilities Analysis
 ## Notebooks
 1. [Data Wrangling](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Projects/Ski-Resort-Guided-Capstone/Notebooks/02_data_wrangling.ipynb)
 2. [EDA](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Projects/Ski-Resort-Guided-Capstone/Notebooks/03_exploratory_data_analysis.ipynb)
