@@ -1,4 +1,4 @@
-# Spotify-Genre-Classifier
+# Spotify Genre Classifier & Song Recommender
 - Built A ML pipeline that classifies a Spotify dataset of tracks into their appropriate genres. 
 - Created a recommender that takes a track and integer K as input from the user and recommends the top K similar songs to the user input.
 ## Notebooks
