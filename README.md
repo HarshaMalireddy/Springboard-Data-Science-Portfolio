@@ -6,7 +6,7 @@ Hi! Here is a list of my Springboard bootcamp and personal Data Science projects
 1. [Facebook Friend Recommender with Node2Vec & NetworkX Link Prediction Algorithms](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Projects/Facebook-Friend-Recommender)
 2. [Spotify Songs Genre Classifier & Songs Recommender with Supervised Learning](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Projects/Spotify-Genre-Classifier-%26-Song%20Recommender) 
 3. [Ski Resort Facilities Analysis](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Projects/Ski-Resort-Facilities-Analysis)
-## Springboard Projects
+## Springboard Mini Projects
 ### Python For Data Science
 1. [London Boroughs Analysis](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Python%20For%20Data%20Science/London%20Boroughs%20Analysis/London%20Boroughs%20Analysis.ipynb)
 ### SQL
