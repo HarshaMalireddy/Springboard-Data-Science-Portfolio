@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Hi! Here is a list of my Springboard bootcamp and personal Data Science projects and case studies.
+Hi! Here is a list of my personal Data Science projects and Springboard bootcamp projects.
  
 ## Projects
 1. [Facebook Friend Recommender with Node2Vec & NetworkX Link Prediction Algorithms](https://github.com/HarshaMalireddy/Data-Science-Portfolio/tree/main/Projects/Facebook-Friend-Recommender)
