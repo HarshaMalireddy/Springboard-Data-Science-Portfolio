@@ -1,0 +1,4 @@
+Model ,Hyperperameters,Accuracy,Precision,Recall,F1-Score,Log Loss,ROC-AUC
+Node2Vec: MLP Classifier (Multi-layer Perceptron Classifier),"activation='tanh', max_iter=1000, random_state=0, solver='sgd'",0.85,0.86,0.85,0.85,0.35,0.92
+NetworkX: MLP Classifier (Multi-layer Perceptron Classifier),"activation='tanh', max_iter=1000, random_state=0, solver='sgd'",0.92,0.92,0.92,0.92,0.24,0.95
+NetworkX: Gradient Boosting Classifier,"learning_rate=0.05, random_state=0",0.92,0.92,0.92,0.92,0.24,0.96
