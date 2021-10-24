@@ -9,5 +9,5 @@
 4. [Node2Vec Algo. Modeling](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Projects/Facebook-Friend-Recommender/Notebooks/Node2Vec%20Algo.%20Modeling.ipynb)
 5. [NetworkX Link Prediction Algo. Modeling](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Projects/Facebook-Friend-Recommender/Notebooks/NetworkX%20Link%20Prediction%20Algo.%20Modeling.ipynb)
 ## Reports
-1. [Final Report]()
-2. [Final Report Slides]() 
+1. [Final Report](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Projects/Facebook-Friend-Recommender/Reports/Final%20Report.pdf)
+2. [Final Report Slides](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Projects/Facebook-Friend-Recommender/Reports/Final%20Report%20Slides.pdf)
