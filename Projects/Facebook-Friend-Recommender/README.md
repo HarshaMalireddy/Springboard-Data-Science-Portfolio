@@ -1,7 +1,7 @@
 # Facebook Friend Recommender
 - Built a recommender system of facebook friends based on network analysis using a dataset of nodes (users), user profile info. (attributes), and connections (edges)
-- Performed network analysis using the Node2Vec algorithm to understand graph structure and attributes of connections and gave recommendations of potential friends to connect with
-- Used NetworkX library link prediction metrics such common neighbors, jaccard coefficient, etc. as features and the connection status as the prediction variable and tested several supervised learning models to make predictions on which two unconnected nodes/users are most likely to be friends, and gave recommendations based on the ranked predicted probabilities
+- Performed network analysis using the Node2Vec algorithm to understand graph structure & create node embeddings to use in several supervised learning models that predict connection status of users, and gave recommendations of potential future friends based on the ranked predicted probabilities
+- Used NetworkX library link prediction algorithms such common neighbors, jaccard coefficient, etc. as features to predict connection status of users using several supervised learning models, and gave recommendations of potential future friends based on the ranked predicted probabilities
 ## Notebooks
 1. [Data Wrangling](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Projects/Facebook-Friend-Recommender/Notebooks/Data%20Wrangling.ipynb) 
 2. [EDA](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Projects/Facebook-Friend-Recommender/Notebooks/EDA.ipynb)
