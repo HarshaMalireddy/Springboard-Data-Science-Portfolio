@@ -1,1 +1,3 @@
 # [Examining Customer Preferences with K-Means Clustering](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Unsupervised%20Learning%20Projects/Examining%20Customer%20Preferences%20with%20K-Means%20Clustering/Examining%20Customer%20Preferences%20with%20K-Means%20Clustering.ipynb)
+- Implemented K-Means clustering on a dataset of marketing newsletter campaigns and customer data with offers they received and purchased to understand customer behavior
+- Used 3 methods: the elbow method, silhouette method, and the gap statistic to pick the best number of clusters K and PCA to reduce dimensionality and visualize clusters
