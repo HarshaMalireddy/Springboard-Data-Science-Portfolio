@@ -1,1 +1,4 @@
 # [Estimating Customer Interest with Decision Tree](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Supervised%20Learning%20Projects/Estimating%20Customer%20Interest%20with%20Decision%20Tree/Estimating%20Customer%20Interest%20with%20Decision%20Tree.ipynb)
+- Decided whether a Diner should buy coffee from a farm by using decision trees to estimate if over 70% of diner customers surveyed with missing responses would buy the coffee 
+- Implemented 4 different Decision Tree classifiers: 2 Entropy & 2 Gini impurity models with no max depth & max depth of 3 for each with y (Decision) & X (Other Features)
+- Using the best performing model - gini impurity model & max depth of 3, predicted yes or no classifications for missing responses to determine if purchase interest is over 70% 
