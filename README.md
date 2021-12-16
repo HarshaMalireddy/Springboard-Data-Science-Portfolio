@@ -31,3 +31,6 @@ Hi! Here is a list of my Springboard bootcamp projects & case studies.
 3. [Bayesian Optimization](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/ML%20Techniques/Bayesian%20Optimization/Bayesian%20Optimization.ipynb) 
 ### Time Series
 1. [Making Product Sales Projections with Time Series Forecasting](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Time%20Series%20Forecasting/Making%20Product%20Sales%20Projections%20with%20Time%20Series%20Forecasting.ipynb)
+### Case Study Exercies
+1. [Relax Exercise](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Exercises/Relax/Relax.ipynb)
+2. [Ultimate Exercise](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Exercises/Ultimate%20Technologies/Ultimate%20Challenge.ipynb)
