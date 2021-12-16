@@ -1,1 +1,3 @@
 # [Determining Covid Patient Condition with Random Forest Classifier](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Supervised%20Learning%20Projects/Determining%20Covid%20Patient%20Condition%20with%20Random%20Forest%20Classifier/Determining%20Covid%20Patient%20Condition%20with%20Random%20Forest%20Classifier.ipynb) 
+- Implemented a random forest classifier (ensemble of decision trees) on a dataset of Covid-19 patient data to predict the state ('released' / 'isolated') of a patient
+- Cleaned data, plotted feat correlation heat map & box plots, fitted model, created conufsion matrix plots, and plotted feature importances of the model for futher analysis 
