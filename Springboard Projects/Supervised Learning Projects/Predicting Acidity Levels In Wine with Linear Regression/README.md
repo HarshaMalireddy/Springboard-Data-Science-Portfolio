@@ -1,1 +1,3 @@
 # [Predicting Acidity Levels In Wine with Linear Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Supervised%20Learning%20Projects/Predicting%20Acidity%20Levels%20In%20Wine%20with%20Linear%20Regression/Predicting%20Acidity%20Levels%20In%20Wine%20with%20Linear%20Regression.ipynb)
+- Implemented 3 different Linear Regression models: Linear Reg., Ordinary Least Squares (OLS) Reg., Multiple Linear Reg., to predict acidity levels in a dataset of red wine
+- Predicted acidity levels with multiple regression models different number and type of features and checked the RSME (Root Mean Squared Error) to determine accuracy 
