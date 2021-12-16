@@ -1,1 +1,3 @@
 # [Predicting Titanic Passengers Survival with Gradient Boosting Classifier](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Supervised%20Learning%20Projects/Predicting%20Titanic%20Passengers%20Survival%20with%20Gradient%20Boosting%20Classifier/Predicting%20Titanic%20Passengers%20Survival%20with%20Gradient%20Boosting%20Classifier.ipynb)
+- Implemented a gradient boosting classifier on a titanic passenger dataset with the prediction (y) feature 'survived' with a 1 or 0 value and remaining features in the dataset as X
+- Printed out a classification report and plotted a ROC curve to review model performance 
