@@ -1,1 +1,3 @@
 # [Gender Classification with Logistic Regression](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Supervised%20Learning%20Projects/Gender%20Classification%20with%20Logistic%20Regression/Gender%20Classification%20with%20Logistic%20Regression.ipynb) 
+- Implemented a Logistic Regression model for classification using height & weight as explanatory (X) features and gender as the prediction (y) feature for a dataset of the 3 features
+- Tested different regularization hyperparameter C values using GridSearch to tune the model and examined the math behind the logistic regression sigmoid curve
