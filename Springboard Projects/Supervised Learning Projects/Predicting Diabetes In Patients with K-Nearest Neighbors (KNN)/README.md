@@ -1,1 +1,3 @@
 # [Predicting Diabetes In Patients with K-Nearest Neighbors (KNN)](https://github.com/HarshaMalireddy/Data-Science-Portfolio/blob/main/Springboard%20Projects/Supervised%20Learning%20Projects/Predicting%20Diabetes%20In%20Patients%20with%20K-Nearest%20Neighbors%20(KNN)/Predicting%20Diabetes%20In%20Patients%20with%20K-Nearest%20Neighbors%20(KNN).ipynb)
+- Implemented a K-Nearest Neighbor Classifier on a diabetes dataset of patients with the prediction (y) feature 'outcome' with a 1 or 0 value and remaining dataset features as X
+- Tested different K values and used GridSearchCV to determine best K value and hyperperamter values for the classifier model 
